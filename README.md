@@ -1,2 +1,2 @@
-# open-cv
-Open CV learning streak
+# Open CV
+Open CV daily learning streak
