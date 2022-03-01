@@ -1,5 +1,5 @@
-# Day 01
-Learning different operation perform on image
+# Day 02
+Learning different operation perform on video
 
 e.g. imread(),imshow(),cv2.resize(),etc.
 
